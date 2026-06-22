@@ -1,0 +1,638 @@
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(./mainstarkov.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-05-15>
+(./setup.tex (./vkr.cls
+Document Class: vkr VKR class
+(c:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.sty
+(c:/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
+(c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-xetex.def)))
+(c:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(c:/texlive/2026/texmf-dist/tex/latex/base/fontenc.sty)
+(c:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.cfg))))
+(c:/texlive/2026/texmf-dist/tex/generic/babel/babel.sty
+(c:/texlive/2026/texmf-dist/tex/generic/babel/xebabel.def)
+(c:/texlive/2026/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
+(c:/texlive/2026/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex)
+(c:/texlive/2026/texmf-dist/tex/generic/babel-english/english.ldf)
+(c:/texlive/2026/texmf-dist/tex/generic/babel-russian/russianb.ldf)
+(c:/texlive/2026/texmf-dist/tex/generic/babel/cyrl2uni.def))
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty)
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty)
+(c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(c:/texlive/2026/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(c:/texlive/2026/texmf-dist/tex/latex/hyperref/hyperref.sty
+(c:/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty)
+(c:/texlive/2026/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(c:/texlive/2026/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(c:/texlive/2026/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(c:/texlive/2026/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(c:/texlive/2026/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(c:/texlive/2026/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(c:/texlive/2026/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(c:/texlive/2026/texmf-dist/tex/latex/hyperref/nameref.sty
+(c:/texlive/2026/texmf-dist/tex/latex/refcount/refcount.sty)
+(c:/texlive/2026/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(c:/texlive/2026/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(c:/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(c:/texlive/2026/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(c:/texlive/2026/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(c:/texlive/2026/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(c:/texlive/2026/texmf-dist/tex/latex/hyperref/puenc.def)
+(c:/texlive/2026/texmf-dist/tex/latex/url/url.sty)
+(c:/texlive/2026/texmf-dist/tex/generic/bitset/bitset.sty
+(c:/texlive/2026/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)))
+(c:/texlive/2026/texmf-dist/tex/latex/hyperref/hxetex.def
+(c:/texlive/2026/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(c:/texlive/2026/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(c:/texlive/2026/texmf-dist/tex/latex/float/float.sty)
+(c:/texlive/2026/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+(c:/texlive/2026/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/lscape.sty))) (./xltabular.sty
+(c:/texlive/2026/texmf-dist/tex/latex/tools/tabularx.sty
+(c:/texlive/2026/texmf-dist/tex/latex/tools/array.sty))
+(c:/texlive/2026/texmf-dist/tex/latex/ltablex/ltablex.sty
+(c:/texlive/2026/texmf-dist/tex/latex/tools/longtable.sty)))
+(c:/texlive/2026/texmf-dist/tex/latex/makecell/makecell.sty)
+(c:/texlive/2026/texmf-dist/tex/latex/setspace/setspace.sty)
+
+Package array Warning: Redefining primitive column r on input line 17.
+
+(c:/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
+(c:/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+(c:/texlive/2026/texmf-dist/tex/latex/caption/ltcaption.sty))
+(c:/texlive/2026/texmf-dist/tex/latex/enumitem/enumitem.sty)
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/color.sty
+(c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(c:/texlive/2026/texmf-dist/tex/latex/listings/listings.sty
+(c:/texlive/2026/texmf-dist/tex/latex/listings/lstpatch.sty)
+(c:/texlive/2026/texmf-dist/tex/latex/listings/lstmisc.sty)
+(c:/texlive/2026/texmf-dist/tex/latex/listings/listings.cfg))
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+(c:/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty)
+(c:/texlive/2026/texmf-dist/tex/latex/listings/lstmisc.sty)) (./mainstarkov.aux
+) (./mainstarkov.out) (./mainstarkov.out)
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 36--36
+[] 
+
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 36--36
+[]
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+
+[1] (./ЛистЗадания.tex [2] [3] (./mainstarkov.lop)
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 107--118
+[][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--118
+
+) (./Реферат.tex [4]
+Underfull \hbox (badness 1205) in paragraph at lines 7--8
+[]\TU/TimesNewRoman(0)/m/n/14.4 Объектом разработки является система построения
+ эвакуационных
+[5]) [6] (./mainstarkov.toc [7] [8]) (./mainstarkov.lpc) (./Обозначения.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+[9]) (./Резюме.tex [10]
+Underfull \hbox (badness 1052) in paragraph at lines 18--19
+[]\TU/TimesNewRoman(0)/m/n/14.4 Определение стартовой точки пользователя путём 
+сканирования
+[11] [12]) (./Введение.tex [13] [14]) (./Анализ.tex [15] [16] [17] [18]
+[19] [20] [21] [22]
+Underfull \hbox (badness 10000) in paragraph at lines 131--131
+[]\TU/TimesNewRoman(0)/b/n/14.4 1.6 Особенности применения алгоритма Дейкстры к
+
+[23] [24]
+Underfull \hbox (badness 1540) in paragraph at lines 163--164
+[]\TU/TimesNewRoman(0)/m/n/14.4 алгоритм Дейкстры обеспечивает оптимальность и 
+достаточную
+) (./ТехЗадание.tex [25] [26]
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+[]\TU/TimesNewRoman(0)/m/n/14.4 упорядоченный список узлов маршрута от старта д
+о цели
+[27] [28]
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+[]\TU/TimesNewRoman(0)/m/n/14.4 быстрый доступ к узлу по идентификатору через с
+ловарь
+
+Underfull \hbox (badness 4132) in paragraph at lines 105--106
+[]\TU/TimesNewRoman(0)/m/n/14.4 хранение списка смежности для каждого узла (\TU
+/Verdana(0)/m/n/14.4 Dictionary<string,
+[29] [30] [31] [32]
+Underfull \hbox (badness 1127) in paragraph at lines 200--201
+[]\TU/TimesNewRoman(0)/m/n/14.4 Для каждого выхода вычисляется кратчайший путь 
+алгоритмом
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+[]\TU/TimesNewRoman(0)/m/n/14.4 документирования публичного API (классы \TU/Ver
+dana(0)/m/n/14.4 NavGraph\TU/TimesNewRoman(0)/m/n/14.4 , \TU/Verdana(0)/m/n/14.
+4 NavNode\TU/TimesNewRoman(0)/m/n/14.4 ,
+[34]) (./ТехПроект.tex [35]
+Underfull \hbox (badness 4144) in paragraph at lines 10--11
+\TU/Verdana(0)/m/n/14.4 NavGraph\TU/TimesNewRoman(0)/m/n/14.4 ), алгоритмы поис
+ка пути инкапсулированы в методах класса
+[36] [37]
+Underfull \hbox (badness 6078) in paragraph at lines 33--34
+[]\TU/TimesNewRoman(0)/m/n/14.4 Для реализации алгоритма Дейкстры используются 
+стандартные
+
+Underfull \hbox (badness 2913) in paragraph at lines 33--34
+\TU/TimesNewRoman(0)/m/n/14.4 коллекции .NET без привлечения сторонних библиоте
+к: \TU/Verdana(0)/m/n/14.4 SortedSet<(float,
+[38] [39] [40]
+Underfull \hbox (badness 3861) in paragraph at lines 112--113
+\TU/Verdana(0)/m/n/14.4 neighbor, float weight)>>\TU/TimesNewRoman(0)/m/n/14.4 
+, который используется алгоритмом Дейкстры для
+[41] [42] [43] [44]
+Underfull \hbox (badness 1184) in paragraph at lines 189--190
+[]\TU/TimesNewRoman(0)/m/n/14.4 Для режима чрезвычайной ситуации реализован алг
+оритм в мето-
+[45]
+Underfull \hbox (badness 4608) in paragraph at lines 242--243
+\TU/Verdana(0)/m/n/14.4 blocked)\TU/TimesNewRoman(0)/m/n/14.4 , при наличии пут
+и устанавливает конечный узел и вызывает
+[46] [47] [48] [49]
+Underfull \hbox (badness 5711) in paragraph at lines 287--288
+\TU/TimesNewRoman(0)/m/n/14.4 ными навигационного графа здания университета: за
+грузка графа из
+[50]
+Underfull \hbox (badness 1735) in paragraph at lines 314--315
+[]\TU/TimesNewRoman(0)/m/n/14.4 В техническом проекте описана реализация алгори
+тмического яд-
+) (./РабочийПроект.tex [51] [52]
+Underfull \hbox (badness 1057) in paragraph at lines 10--11
+\TU/TimesNewRoman(0)/m/n/14.4 рутизации выделены следующие программные модули: 
+\TU/Verdana(0)/m/n/14.4 NavNode\TU/TimesNewRoman(0)/m/n/14.4 , \TU/Verdana(0)/m
+/n/14.4 NavEdge\TU/TimesNewRoman(0)/m/n/14.4 ,
+
+Underfull \hbox (badness 1888) in paragraph at lines 26--26
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Загрузка, сохранение и предоставление
+[53] [54]
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Возвращает узел по
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/TimesNewRoman(0)/m/n/14.4 идентификатору или
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Поиск кратчайшего
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/TimesNewRoman(0)/m/n/14.4 пути по алгоритму
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/TimesNewRoman(0)/m/n/14.4 Дейкстры с динами-
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/TimesNewRoman(0)/m/n/14.4 ческим исключением
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Добавление ребра с
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/TimesNewRoman(0)/m/n/14.4 автоматическим вы-
+
+Underfull \hbox (badness 1424) in paragraph at lines 83--83
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Узлы заданного этажа
+(c:/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty) [55] [56] [57]
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Сохранение графа в
+
+Underfull \hbox (badness 3168) in paragraph at lines 162--162
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Удаление узла вместе
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Добавление ребра в
+ [58]
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+\TU/TimesNewRoman(0)/m/n/14.4 шего эвакуационного
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Отключение режима
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Проверка активности
+[59]
+Underfull \hbox (badness 3701) in paragraph at lines 228--228
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Построение маршрута
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
+\TU/TimesNewRoman(0)/m/n/14.4 между выбранными
+
+Overfull \hbox (6.57782pt too wide) in paragraph at lines 228--228
+[]|\TU/Verdana(0)/m/n/14.4 ExecuteBuildEmergencyRoute| 
+
+Underfull \hbox (badness 6348) in paragraph at lines 228--228
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Построение эвакуаци-
+
+Underfull \hbox (badness 1237) in paragraph at lines 228--228
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Формирование множе-
+
+Underfull \hbox (badness 1502) in paragraph at lines 228--228
+\TU/TimesNewRoman(0)/m/n/14.4 ства исключаемых уз-
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Формирование поша-
+
+Underfull \hbox (badness 4518) in paragraph at lines 228--228
+\TU/TimesNewRoman(0)/m/n/14.4 говых инструкций по
+[60]
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+[]\TU/TimesNewRoman(0)/m/n/14.4 Для проверки корректности разработаны модульные
+ тесты для
+
+Underfull \hbox (badness 5681) in paragraph at lines 251--252
+\TU/TimesNewRoman(0)/m/n/14.4 четырёх модулей, образующих алгоритмическое ядро 
+маршрутизации:
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+\TU/TimesNewRoman(0)/m/n/14.4 построения маршрута (\TU/Verdana(0)/m/n/14.4 NavG
+raph.FindPath\TU/TimesNewRoman(0)/m/n/14.4 ), поиска ближайшего эвакуа-
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+\TU/TimesNewRoman(0)/m/n/14.4 ционного выхода (\TU/Verdana(0)/m/n/14.4 Emergenc
+yService.FindNearestExitRoute\TU/TimesNewRoman(0)/m/n/14.4 ), вычисления ве-
+
+Underfull \hbox (badness 8132) in paragraph at lines 251--252
+\TU/TimesNewRoman(0)/m/n/14.4 сов рёбер (\TU/Verdana(0)/m/n/14.4 NavGraph.AddEd
+ge\TU/TimesNewRoman(0)/m/n/14.4 ) и формирования множества исключений
+
+Underfull \hbox (badness 3713) in paragraph at lines 251--252
+\TU/TimesNewRoman(0)/m/n/14.4 (\TU/Verdana(0)/m/n/14.4 MainViewModel.BuildExclu
+deSet\TU/TimesNewRoman(0)/m/n/14.4 ). Для каждого модуля составлена отдельная
+[61]
+Underfull \hbox (badness 3302) in paragraph at lines 298--298
+[]  \TU/TimesNewRoman(0)/m/n/14.4 Таблица 4.8 – Тестовые наборы для модуля пост
+роения маршрута
+
+Underfull \hbox (badness 1527) in paragraph at lines 298--298
+\TU/TimesNewRoman(0)/m/n/14.4 лов A, B, C; запрос
+
+Underfull \hbox (badness 1635) in paragraph at lines 298--298
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Выбор оптимального
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--298
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Граф, содержащий
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--298
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Несуществующий
+
+Underfull \hbox (badness 1184) in paragraph at lines 298--298
+\TU/TimesNewRoman(0)/m/n/14.4 товый или конечный
+
+Underfull \hbox (badness 1142) in paragraph at lines 298--298
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Множество исключе-
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--298
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Полная блокировка
+
+Underfull \hbox (badness 6001) in paragraph at lines 298--298
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Стартовый и конеч-
+
+Underfull \hbox (badness 2237) in paragraph at lines 298--298
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Граф с межэтажным
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--298
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Повторные вызовы
+
+Underfull \hbox (badness 8170) in paragraph at lines 298--298
+\TU/TimesNewRoman(0)/m/n/14.4 с растущим множе-
+
+Underfull \hbox (badness 4556) in paragraph at lines 298--298
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Корректно перестро-
+
+Underfull \hbox (badness 6758) in paragraph at lines 298--298
+\TU/TimesNewRoman(0)/m/n/14.4 компонентах связно-
+[62] [63]
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Граф без узлов-
+
+Underfull \hbox (badness 4569) in paragraph at lines 317--317
+\TU/TimesNewRoman(0)/m/n/14.4 бавлен в множество
+ [64]
+Underfull \hbox (badness 4366) in paragraph at lines 336--336
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Вес горизонтального
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Вес межэтажного
+
+Underfull \hbox (badness 6396) in paragraph at lines 336--336
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Добавление ребра с
+
+Underfull \hbox (badness 7832) in paragraph at lines 336--336
+\TU/TimesNewRoman(0)/m/n/14.4 признаком межэтаж-
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Двунаправленность
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Добавление ребра
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Создаются рёбра
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+\TU/TimesNewRoman(0)/m/n/14.4 A$\OMS/cmsy/m/n/14.4 !$\TU/TimesNewRoman(0)/m/n/1
+4.4 B и B$\OMS/cmsy/m/n/14.4 !$\TU/TimesNewRoman(0)/m/n/14.4 A с
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Повторное добавле-
+
+Underfull \hbox (badness 2197) in paragraph at lines 336--336
+\TU/TimesNewRoman(0)/m/n/14.4 ние уже существую-
+
+Underfull \hbox (badness 4291) in paragraph at lines 336--336
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Повторное ребро не
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Несуществующий
+
+Underfull \hbox (badness 6396) in paragraph at lines 336--336
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Добавление ребра с
+ [65]
+Underfull \hbox (badness 10000) in paragraph at lines 338--338
+[]\TU/TimesNewRoman(0)/b/n/14.4 4.7.4 Тестирование модуля формирования множеств
+а
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
+[]\TU/TimesNewRoman(0)/m/n/14.4 Модуль формирования множества исключений
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
+\TU/TimesNewRoman(0)/m/n/14.4 (\TU/Verdana(0)/m/n/14.4 MainViewModel.BuildExclu
+deSet\TU/TimesNewRoman(0)/m/n/14.4 ) объединяет узлы-выходы, не являющиеся
+
+Underfull \hbox (badness 4132) in paragraph at lines 340--341
+\TU/TimesNewRoman(0)/m/n/14.4 динамическое перестроение маршрута в обход недост
+упных участков.
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Исключение прочих
+
+Underfull \hbox (badness 3623) in paragraph at lines 355--355
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Граф с несколькими
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
+\TU/TimesNewRoman(0)/m/n/14.4 выходами; старт и
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
+\TU/TimesNewRoman(0)/m/n/14.4 цель не являются
+
+Underfull \hbox (badness 2103) in paragraph at lines 355--355
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Стартовый выход не
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Стартовый узел
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Учёт заблокирован-
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Список заблоки-
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
+\TU/TimesNewRoman(0)/m/n/14.4 рованных узлов
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Узел X включён в
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Объединение источ-
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Заданы и узлы-
+
+Underfull \hbox (badness 3281) in paragraph at lines 355--355
+\TU/TimesNewRoman(0)/m/n/14.4 (кроме старта и це-
+
+Underfull \hbox (badness 4291) in paragraph at lines 355--355
+\TU/TimesNewRoman(0)/m/n/14.4 ли) и заблокирован-
+[66] [67] [68] [69] [70] [71] [72] [73]) (./Заключение.tex [74] [75])
+(./СписокИсточников.tex [76]
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+[]\TU/TimesNewRoman(0)/m/n/14.4 Ecma International. The JSON Data Interchange F
+ormat.
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+\TU/TimesNewRoman(0)/m/n/14.4 Standard ECMA-404, 2nd ed. — URL: []$[][][][][] [
+] [] [] [][][] [] [][][][][][][][][][][][][][][][][][][] [] [][][] []
+
+Underfull \hbox (badness 4036) in paragraph at lines 27--28
+[]\TU/TimesNewRoman(0)/m/n/14.4 Microsoft. Model-View-ViewModel (MVVM) in .NET 
+MAUI. —
+[77]
+Underfull \hbox (badness 1635) in paragraph at lines 29--30
+[]\TU/TimesNewRoman(0)/m/n/14.4 Microsoft. Dependency injection in .NET MAUI. —
+ URL: []$[][][][][] [] [] []
+
+Underfull \hbox (badness 1286) in paragraph at lines 31--32
+[]\TU/TimesNewRoman(0)/m/n/14.4 Microsoft. XAML overview in .NET MAUI. — URL: [
+]$[][][][][] [] [] [] [][][][][] []
+
+Underfull \hbox (badness 4416) in paragraph at lines 33--34
+[]\TU/TimesNewRoman(0)/m/n/14.4 Microsoft. SkiaSharp graphics in .NET MAUI. — U
+RL: []$[][][][][] [] [] []
+
+Underfull \hbox (badness 2961) in paragraph at lines 33--34
+[][][][][] [] [][][][][][][][][] [] [][][] [] [][][][][][] [] [][][][] [] [][][
+][][][][][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][][][]$[] \TU/Ti
+mesNewRoman(0)/m/n/14.4 (дата обращения:
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+[][][] [] [][][][][][] [] [][][][][][][][] [] [][][][][][][][][][][][][] [] [][
+][][][][][][][][][][][][][][][][] [] [][][][][][][][]$[] \TU/TimesNewRoman(0)/m
+/n/14.4 (дата обращения:
+
+Underfull \hbox (badness 2384) in paragraph at lines 39--40
+[]\TU/TimesNewRoman(0)/m/n/14.4 Situm Technologies. Situm Indoor Positioning Pl
+atform. Developer
+
+Underfull \hbox (badness 1783) in paragraph at lines 49--50
+[]\TU/TimesNewRoman(0)/m/n/14.4 Амеличев Г.Э., Панина В.С. Сравнительный анализ
+ алгоритмов
+[78]
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+[]\TU/TimesNewRoman(0)/m/n/14.4 Виннников М.Д. Разработка базы данных для мобил
+ь-
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+\TU/TimesNewRoman(0)/m/n/14.4 ного приложения на операционной системе Android /
+/ Науч-
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+\TU/TimesNewRoman(0)/m/n/14.4 ные известия. — 2022. — URL: []$[][][][][] [] [] 
+[] [][][][][][][][][][][][] [] [][] [] [][][][][][][] [] [] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][]$[]
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+[]\TU/TimesNewRoman(0)/m/n/14.4 Ершов Т.А. Обзор технологии мобильной разработк
+и
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+\TU/TimesNewRoman(0)/m/n/14.4 Xamarin // StudNet. — 2021. — URL: []$[][][][][] 
+[] [] [] [][][][][][][][][][][][] [] [][] [] [][][][][][][] [] [] []
+
+Underfull \hbox (badness 2495) in paragraph at lines 67--68
+[]\TU/TimesNewRoman(0)/m/n/14.4 Ескендир М.А. Введение в разработку мобильных п
+риложений
+
+Underfull \hbox (badness 1742) in paragraph at lines 67--68
+\TU/TimesNewRoman(0)/m/n/14.4 // Вестник магистратуры. — 2019. — URL: []$[][][]
+[][] [] [] [] [][][][][][][][][][][][] [] [][] [] [][][][][][][] [] [] []
+[79]
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+[]\TU/TimesNewRoman(0)/m/n/14.4 Жуковская А.Н., Заушицина А.С. Особенности разр
+а-
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+\TU/TimesNewRoman(0)/m/n/14.4 ботки кроссплатформенных мобильных приложений // 
+Решет-
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+\TU/TimesNewRoman(0)/m/n/14.4 нёвские чтения. — 2017. — URL: []$[][][][][] [] [
+] [] [][][][][][][][][][][][] [] [][] [] [][][][][][][] [] [] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][]$[] \TU/TimesNewRoman(0)/m
+/n/14.4 (дата обращения:
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+[]\TU/TimesNewRoman(0)/m/n/14.4 Изотова Т.Ю. Обзор алгоритмов поиска кратчайшег
+о пу-
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+\TU/TimesNewRoman(0)/m/n/14.4 ти в графе // Новые информационные технологии в а
+втоматизи-
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+\TU/TimesNewRoman(0)/m/n/14.4 рованных системах. — 2016. — URL: []$[][][][][] [
+] [] [] [][][][][][][][][][][][] [] [][] [] [][][][][][][] [] [] []
+
+Underfull \hbox (badness 1009) in paragraph at lines 75--76
+[]\TU/TimesNewRoman(0)/m/n/14.4 Ильичёв М.В., Мезенцева Е.М. Фреймворк Xamarin 
+// Теория и
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+[]\TU/TimesNewRoman(0)/m/n/14.4 Кошелев О.В. Шаблоны проектирования в программи
+рова-
+
+Underfull \hbox (badness 2359) in paragraph at lines 81--82
+\TU/TimesNewRoman(0)/m/n/14.4 нии // Научный журнал. — 2018. — URL: []$[][][][]
+[] [] [] [] [][][][][][][][][][][][] [] [][] [] [][][][][][][] [] [] []
+
+Underfull \hbox (badness 2318) in paragraph at lines 83--84
+\TU/TimesNewRoman(0)/m/n/14.4 Форум молодых учёных. — 2021. — URL: []$[][][][][
+] [] [] [] [][][][][][][][][][][][] [] [][] [] [][][][][][][] [] [] []
+[80]
+Underfull \hbox (badness 2512) in paragraph at lines 89--90
+[]\TU/TimesNewRoman(0)/m/n/14.4 Монгуш А.В., Кикин П.М. Обзор технологий indoor
+-навигации
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+[]\TU/TimesNewRoman(0)/m/n/14.4 Сазонов А.П. Использование принципа Dependency
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+\TU/TimesNewRoman(0)/m/n/14.4 Injection в мобильной разработке // Инновации и и
+н-
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+\TU/TimesNewRoman(0)/m/n/14.4 вестиции. — 2024. — URL: []$[][][][][] [] [] [] [
+][][][][][][][][][][][] [] [][] [] [][][][][][][] [] [] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][]$[] \TU/TimesNewRoman(0)/m/n/14.4 (дата
+
+Underfull \hbox (badness 1735) in paragraph at lines 99--100
+[]\TU/TimesNewRoman(0)/m/n/14.4 Сергеев К.С., Афонин А.Ю., Осин С.М. Особенност
+и и разли-
+
+Underfull \hbox (badness 4595) in paragraph at lines 99--100
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][]$[] \TU/TimesNewRoman(0)/m/n/14.4 (да-
+
+Underfull \hbox (badness 3690) in paragraph at lines 101--102
+\TU/TimesNewRoman(0)/m/n/14.4 дународный научно-исследовательский журнал. — 201
+7. — Т. 62. —
+[81]
+Underfull \hbox (badness 1424) in paragraph at lines 107--108
+[]\TU/TimesNewRoman(0)/m/n/14.4 Уваров А.Н. Инверсия управления и внедрение зав
+исимостей //
+
+Underfull \hbox (badness 7397) in paragraph at lines 113--114
+[]\TU/TimesNewRoman(0)/m/n/14.4 Яровая Е.В. Принципы построения архитектуры про
+граммно-
+
+Underfull \hbox (badness 1688) in paragraph at lines 113--114
+\TU/TimesNewRoman(0)/m/n/14.4 го обеспечения // E-Scio. — 2022. — URL: []$[][][
+][][] [] [] [] [][][][][][][][][][][][] [] [][] [] [][][][][][][] [] [] []
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][]$[] \TU/TimesNewRoman(0)/m/n/1
+4.4 (дата обращения:
+
+Underfull \hbox (badness 4967) in paragraph at lines 121--122
+[]\TU/TimesNewRoman(0)/m/n/14.4 Jia X., Ebone A., Tan Y. A Performance Evaluati
+on of Cross-
+
+Underfull \hbox (badness 3098) in paragraph at lines 121--122
+\TU/TimesNewRoman(0)/m/n/14.4 5th IEEE/ACM International Conference on Mobile S
+oftware Engineering
+
+Underfull \hbox (badness 1681) in paragraph at lines 121--122
+\TU/TimesNewRoman(0)/m/n/14.4 and Systems (MOBILESoft 2018). — Gothenburg, 2018
+. — P. 92–93. —
+[82]
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\TU/TimesNewRoman(0)/m/n/14.4 Selection Using Route Risk Index // Journal of Co
+mputing in Civil
+
+Underfull \hbox (badness 1990) in paragraph at lines 125--126
+\TU/TimesNewRoman(0)/m/n/14.4 Engineering (ASCE). — 2020. — Vol. 34, No. 2. — A
+rt. 04019051. —
+
+Underfull \hbox (badness 1776) in paragraph at lines 129--130
+\TU/TimesNewRoman(0)/m/n/14.4 Alvarado A.B., Rodríguez-Rodríguez A.J., Vargas-R
+equena D.T. An Indoor
+
+Underfull \hbox (badness 2951) in paragraph at lines 131--132
+[]\TU/TimesNewRoman(0)/m/n/14.4 Singh N., Choe S., Punmiya R. Machine Learning 
+Based Indoor
+) (./Плакаты.tex [83] [84] [85] [86] [87] [88]) (./Код.tex (./Code/NavNode.cs
+[89]) (./Code/NavEdge.cs) (./Code/NavGraph.cs [90] [91])
+(./Code/EmergencyService.cs [92] [93] [94] [95]) [96]
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 24--39
+[] 
+) [97] (./mainstarkov.aux)
+
+Package rerunfilecheck Warning: File `mainstarkov.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information)
+Output written on mainstarkov.pdf (97 pages).
+Transcript written on mainstarkov.log.
